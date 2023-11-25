@@ -1,0 +1,25 @@
+/* OrderForm.css */
+.menu-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .menu-item {
+    flex: 0 1 300px;
+    margin: 20px;
+    border: 2px solid #ccc;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    box-sizing: border-box;
+  }
+  
+  .menu-item h3 {
+    margin: 0;
+  }
+  
+  .menu-item p {
+    margin: 5px 0;
+  }
+  

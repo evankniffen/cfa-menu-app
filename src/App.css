@@ -1,0 +1,23 @@
+/* App.css */
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  margin-top: 100px; /* Add some top margin */
+}
+
+.menu-title {
+  margin-bottom: 20px;
+}
+
+.language-selector {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
